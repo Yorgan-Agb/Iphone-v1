@@ -22,9 +22,7 @@
 </div>
 
 <hr/>
-
-<div>
-   <img src="https://gyazo.com/b2fb54e0adc4969c1e356063eef3c6ba" width="600" height="300"/>
-</div>  
-  
+ 
 ![b2fb54e0adc4969c1e356063eef3c6ba](https://user-images.githubusercontent.com/90197161/161712010-3f30602e-885e-4ab0-9e5f-8e192c123680.png)
+
+![543c3483a5b29a611cf778604fc40a4c](https://user-images.githubusercontent.com/90197161/161712087-5c09e159-4a4b-4221-b45e-7f8767d2e5a2.png)
