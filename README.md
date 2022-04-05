@@ -20,3 +20,10 @@
   <li>npm start</li>
   <p>Ces commandes installent les dépendances et démarrent l'application en mode développement.</p>
 </div>
+
+<hr/>
+
+<div>
+   <img src="https://gyazo.com/b2fb54e0adc4969c1e356063eef3c6ba" width="600" height="300"/>
+</div>  
+  
